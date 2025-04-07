@@ -12,7 +12,7 @@ Run the following command to clone the repository:
 
 ```bash
 git clone https://github.com/GothamKnight17/GSOC-SQLancer-Prototype.git
-
+```
 
 Post cloning run these command:
    
