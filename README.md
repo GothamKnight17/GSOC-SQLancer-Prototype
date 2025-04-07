@@ -1,13 +1,14 @@
-**GSOC : SQLancer**
+                                    #GSOC : SQLancer
 
 1. Clone the repository via running following commands:
   git clone https://github.com/GothamKnight17/GSOC-SQLancer-Prototype.git
 
-2. Post clonning run these command:
-   *To Build the image*
+2. Post cloning run these command:
+   
+   **To Build the image**
    docker build -t nameOfYourImage:tag .
 
-  *Run the container*
+  **Run the container**
   docker run -it --name nameOfYourContainer nameOfYourImage:tag
   
   
