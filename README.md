@@ -17,22 +17,21 @@ git clone https://github.com/GothamKnight17/GSOC-SQLancer-Prototype.git
 Post cloning run these command:
    
    - To Build the image:
-   
    ```bash
    docker build -t nameOfYourImage:tag .
-
-   - Run the container
+   ```
    
+   - Run the container
    ```bash
    docker run -it --name nameOfYourContainer nameOfYourImage:tag
-  
+   ```
   
 🐳 Pull Pre-Built Docker Image (Optional)
 Instead of building the image manually, you can pull a ready-made Docker image:
 
 ```bash
 docker pull codegotham/prototype:v1
-
+```
 
 🔗 DockerHub Link
 Explore the Docker image and its tags on DockerHub:
